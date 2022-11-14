@@ -1,5 +1,9 @@
 # Reference
 https://www.coolapk.com/feed/35048130?shareKey=OGI2NzJjYWI0NTk1NjJjMWFkMTU~&shareUid=645359&shareFrom=com.coolapk.market_12.3.1%E2%80%8B
+本项目主要做了一些对于 macOS 的兼容, 
+> 提醒: 降级有风险, 本项目仅作为技术研究, 任何因使用本软件导致的风险责任自负
+
+> 注意: 是真的有风险, 本人的 xm3 和老款 xm4 降级正常; 最新的 xm4 和 xm5 导入后变砖
 
 # Tip
 支持了最新版headphones 9<br />
